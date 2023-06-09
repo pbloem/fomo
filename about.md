@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# FoMo: Foundation models in Amsterdam
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The FoMo lectures is a series of seminars highlighting the work being done in Amsterdam around _foundation models_: large, highly re-usable machine learning models trained on great amounts of data. These include large language models like GPT and generative vision models like DALLE·2, Stable Diffusion and Midjourney.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The talks are held alternately at the UvA and VU, and feature speakers from a variety of domains. They are intended for a technical audience.
 
-
-[jekyll-organization]: https://github.com/jekyll

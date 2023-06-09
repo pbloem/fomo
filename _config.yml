@@ -16,14 +16,9 @@
 title: FoMo lectures
 email: fomo@peterbloem.nl
 description: >- # this means to ignore newlines until "baseurl:"
-The FoMo lectures is a series of seminars highlighting the work being done in Amsterdam around foundation 
-models: large, highly re-usable machine learning models trained on great amounts of data. These include large 
-language models like GPT and generative vision models like DALLE·2, Stable Diffusion and Midjourney.
-
-The talks are held alternately at the UvA and VU, and feature speakers from a variety of domains. They are 
-intended for a technical audience.
- baseurl: 
-"/fomo/" # the subpath 
+  The FoMo lectures is a series of seminars highlighting the work being done in Amsterdam around foundation 
+  models.
+baseurl: "/fomo/" # the subpath 
 github_username:  pbloem
 
 # Build settings
