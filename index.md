@@ -15,7 +15,11 @@ The talks are held alternately at the UvA and VU, and feature speakers from a va
   <th>date</th><th>time</th><th>location</th><th>talks</th>
 </tr><tr>
 <td valign="top">June 27</td><td valign="top"> 12:00 </td><td valign="top"> VU, room tbd </td><td markdown="1"> 
-
+Tao Hu (UvA)
+title to be announced.
+  
+Stefan Schouten (VU, CLTL)
+title to be announced.
 </td>
 </tr><tr>
 <td valign="top">June 20</td><td valign="top"> 12:00 </td><td valign="top"> L3.36, Lab42 at UvA </td><td markdown="1"> 
