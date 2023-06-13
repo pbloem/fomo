@@ -9,6 +9,8 @@ The FoMo lectures is a series of seminars highlighting the work being done in Am
 
 The talks are held alternately at the UvA and VU, and feature speakers from a variety of domains. They are intended for a technical audience.
 
+The lectures are organized by [Cees Snoek](https://www.ceessnoek.info/) and [Peter Bloem](https://peterbloem.nl).
+
 # Upcoming talks
 
 <table><tr>
