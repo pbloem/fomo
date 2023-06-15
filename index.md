@@ -28,6 +28,7 @@ title to be announced.
 [Selene Baez Santamaria](https://selbaez.github.io/) (VU, CLTL)
 **A Practical Approach to GPTx Models: Insights on Task-Specific Performance**
 Large language models have sparked extensive discussions in scientific communities and the general media over the past year. Particularly, OpenAI's decision to make their GPTx models available to the public has enabled millions of individuals (with sufficient economic resources and internet requirements) to utilize them. Within research, their API accessibility has made it possible to effortlessly explore these model's performance on a wide range of scientific tasks. In this talk, I will present my findings from three specific tasks: knowledge base completion, argument mining, and task-oriented dialogue incorporating subjective knowledge
+
   
 [Francesco Manigrasso](https://www.polito.it/en/staff?p=francesco.manigrasso) (Department of Control and Computer Engineering, Politecnico di Torino)
 **Knowledge Representation: Neurosymbolic Integration of Reasoning and Learning.**
