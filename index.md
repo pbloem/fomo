@@ -25,10 +25,11 @@ title to be announced.
 </td>
 </tr><tr>
 <td valign="top">June 20</td><td valign="top"> 12:00 </td><td valign="top"> L3.36, Lab42 at UvA </td><td markdown="1"> 
-Selene Baez Santamaria (VU, CLTL)
-title to be announced.  
-
-Francesco Manigrasso (Department of Control and Computer Engineering, Politecnico di Torino)
+[Selene Baez Santamaria](https://selbaez.github.io/) (VU, CLTL)
+**A Practical Approach to GPTx Models: Insights on Task-Specific Performance**
+Large language models have sparked extensive discussions in scientific communities and the general media over the past year. Particularly, OpenAI's decision to make their GPTx models available to the public has enabled millions of individuals (with sufficient economic resources and internet requirements) to utilize them. Within research, their API accessibility has made it possible to effortlessly explore these model's performance on a wide range of scientific tasks. In this talk, I will present my findings from three specific tasks: knowledge base completion, argument mining, and task-oriented dialogue incorporating subjective knowledge
+  
+[Francesco Manigrasso](https://www.polito.it/en/staff?p=francesco.manigrasso) (Department of Control and Computer Engineering, Politecnico di Torino)
 **Knowledge Representation: Neurosymbolic Integration of Reasoning and Learning.**
 Neuro-symbolic integration aims to leverage the power of symbolic knowledge representation along with the learning capabilities of deep neural networks. Specifically, Logic Tensor Networks (LTNs) enable the incorporation of background knowledge through logical axioms, grounding a first-order logic language as differentiable operations between real tensors. However, only a few studies have explored the potential benefits of this approach for enhancing object detection and zero-shot learning (ZSL) classification.
 In this study, we focus on the subsumption of the isOfClass predicate, which plays a fundamental role in encoding most semantic image interpretation tasks. We introduce different architectures capable of merging LTNs with convolutional networks. FASTERLTN is an object detector composed of a convolutional backbone and a Logic Tensor Network, trained in an end-to-end manner. On the other hand, PROTOtypical Logic Tensor (PROTO-LTN) extends the current formulation of parametrized class prototypes in a high-dimensional embedding space.
