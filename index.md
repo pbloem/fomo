@@ -21,7 +21,8 @@ Tao Hu (UvA)
 title to be announced.
   
 Stefan Schouten (VU, CLTL)
-title to be announced.
+Natural language reasoning plays an increasingly important role in improving language models' ability to solve complex language understanding tasks. An interesting use case for reasoning is the resolution of context-dependent ambiguity.
+In this talk, I will discuss ongoing work on the evaluation of LLMs w.r.t. their ability to use explicit reasoning for disambiguation. We propose to use ambiguous definite descriptions for this purpose and have created a benchmark dataset consisting of such phrases. 
 </td>
 </tr><tr>
 <td valign="top">June 20</td><td valign="top"> 12:00 </td><td valign="top"> L3.36, Lab42 at UvA </td><td markdown="1"> 
