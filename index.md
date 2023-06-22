@@ -24,7 +24,7 @@ Diffusion models have demonstrated remarkable progress in image generation quali
 
 
   
-Stefan Schouten (VU, CLTL)
+[Stefan Schouten](https://sfschouten.github.io/) (VU, CLTL)
 **Reasoning about Ambiguous Definite Descriptions**
 Natural language reasoning plays an increasingly important role in improving language models' ability to solve complex language understanding tasks. An interesting use case for reasoning is the resolution of context-dependent ambiguity.
 In this talk, I will discuss ongoing work on the evaluation of LLMs w.r.t. their ability to use explicit reasoning for disambiguation. We propose to use ambiguous definite descriptions for this purpose and have created a benchmark dataset consisting of such phrases. 
