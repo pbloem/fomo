@@ -16,11 +16,16 @@ The lectures are organized by [Cees Snoek](https://www.ceessnoek.info/) and [Pet
 <table><tr>
   <th>date</th><th>time</th><th>location</th><th>talks</th>
 </tr><tr>
-<td valign="top">June 27</td><td valign="top"> 12:00 </td><td valign="top"> VU, room tbd </td><td markdown="1"> 
+<td valign="top">June 27</td><td valign="top"> 12:00 </td><td valign="top"> VU, NU-3A67 </td><td markdown="1"> 
+  
 Tao Hu (UvA)
-title to be announced.
+**Self-guided Diffusion Models**
+Diffusion models have demonstrated remarkable progress in image generation quality, especially when guidance is used to control the generative process. However, guidance requires a large amount of image-annotation pairs for training and is thus dependent on their availability and correctness. In this paper, we eliminate the need for such annotation by instead exploiting the flexibility of self-supervision signals to design a framework for \textit{self-guided} diffusion models. By leveraging a feature extraction function and a self-annotation function, our method provides guidance signals at various image granularities: from the level of holistic images to object boxes and even segmentation masks. Our experiments on single-label and multi-label image datasets demonstrate that self-labeled guidance always outperforms diffusion models without guidance and may even surpass guidance based on ground-truth labels. When equipped with self-supervised box or mask proposals, our method further generates visually diverse yet semantically consistent images, without the need for any class, box, or segment label annotation. Self-guided diffusion is simple, flexible and expected to profit from deployment at scale.
+
+
   
 Stefan Schouten (VU, CLTL)
+**Reasoning about Ambiguous Definite Descriptions**
 Natural language reasoning plays an increasingly important role in improving language models' ability to solve complex language understanding tasks. An interesting use case for reasoning is the resolution of context-dependent ambiguity.
 In this talk, I will discuss ongoing work on the evaluation of LLMs w.r.t. their ability to use explicit reasoning for disambiguation. We propose to use ambiguous definite descriptions for this purpose and have created a benchmark dataset consisting of such phrases. 
 </td>
